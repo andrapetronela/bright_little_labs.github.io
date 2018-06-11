@@ -20,7 +20,7 @@ html {
 #particles-js {
     background-color: #222;
     height: 40rem;
-    grid-column: 6 / 9;
+    grid-column: 5 / -1;
     grid-row: 2 / 4;
     height: 80vh;
 }
